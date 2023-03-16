@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Chistes</title>
+    <link>https://unas-risas-con.000webhostapp.com/index.html</link>
+    <description>3 chistes</description>
+    <language>es</language>
+
+    <item>
+      <title>chiste 1</title>
+      <link>https://unas-risas-con.000webhostapp.com/index.html</link>
+      <description>lifelike-126735.mp3</description>
+    </item>
+    <item>
+      <title>chiste 2</title>
+      <link>https://unas-risas-con.000webhostapp.com/index.html</link>
+      <description>easy-lifestyle-137766.mp3</description>
+    </item>
+    <item>
+      <title>chiste 3</title>
+      <link>https://unas-risas-con.000webhostapp.com/index.html</link>
+      <description>awaken-136824.mp3</description>
+    </item>
+  </channel>
+</rss>

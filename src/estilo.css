@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.flex{
+    display: flex;
+}
+
+/* HEADER */
+
+.header{
+    margin: 50px;
+    margin-bottom: 150px;
+}
+h1{
+    font-size: 120px;
+    color: #a02222;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Irish Grover', cursive;
+}
+.iconos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.iconos2{
+    margin-left: 60px;
+}
+.iconos2 ul{
+    display: flex;
+    align-items: center;
+    
+}
+.iconos2 i{
+    padding: 15px;
+    font-size: 60px;
+    color: #202020;
+}
+.menu{
+    display: flex;
+    align-items: center;
+}
+
+.menu li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #202020;
+}
+
+/* MAIN */
+
+.container{
+    width: 1300px;
+    margin: 0 auto;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 45px;
+    font-family: 'Irish Grover', cursive;
+}
+.carta{
+    font-family: 'Roboto', sans-serif;
+    margin: 0 10px;
+    height: 300px;
+    border: 1px solid rgba(165, 165, 165, 0.25);
+    box-shadow: 2px 4px 6px -1px rgba(120,120,120,1);
+}
+.cuerpo{
+    width: 280px;
+    padding: 0 15px 15px;
+}
+h3{
+    padding: 3px 0;
+}
+.txt{
+    padding-top: 5px;
+}
+.img{
+    width: 100%;
+}
+.audio li:first-child{
+    margin-top: 40px;
+}
+.audio li{
+    margin: 12px;
+    cursor: pointer;
+}
+
+/* CSS HISTORIAS */
+
+.atras{
+    background: linear-gradient(140deg, #00b4b4 0%, #008b8b 30%, #003e3e 100%);
+    color: #202020;
+    padding: 20px;
+    width: 65px;
+    border-radius: 50%;
+}
+.vini{
+    background: linear-gradient(140deg, #a88ae3 0%, #9370d8 50%, #44306a 100%);
+}
+.superliga{
+    background: linear-gradient(145deg, #df4a4a 0%, #a02222 55%, #440909 100%);
+}
+.fa-arrow-left{
+    font-size: 28px;
+}
+.historia1 img{
+    margin: 0 150px;
+    width: 900px;
+}
+.historia1 p{
+    font-size: 25px;
+    margin: 30px;
+}
+.historia1{
+    padding: 50px;
+    margin-bottom: 50px;
+    background-color: blanchedalmond;
+}
